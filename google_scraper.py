@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 import json
 
-names = ['T-ara']
+names = ['Tuấn Hưng']
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 graph = list()
